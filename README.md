@@ -1,8 +1,14 @@
 # 👩🏻‍💻 Willian Yudy Futema 
 
-**`Desenvolvedora FullStack`**
+**` Student / Bartender `**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+My name is Willian Yudy Futema, and I am currently studying a Bachelor of Information Technology in Australia. I’m passionate about technology, data and artificial intelligence, and I’m constantly learning and improving my technical skills.
+
+In addition to my studies, I have professional experience as a bartender, which helped me develop strong customer service, communication and teamwork skills — abilities that I also apply in the tech field.
+
+I’m currently studying topics such as data science, data analytics, networking, object-oriented programming and systems analysis, while building practical projects to expand my portfolio.
+
+I’m open to opportunities in Technology, Data Science, Networking, IT Support and Development.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
