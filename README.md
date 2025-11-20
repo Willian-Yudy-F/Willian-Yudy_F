@@ -11,7 +11,7 @@ I’m currently studying topics such as data science, data analytics, networking
 I’m open to opportunities in Technology, Data Science, Networking, IT Support and Development.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.youtube.com/@FielCode)">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
