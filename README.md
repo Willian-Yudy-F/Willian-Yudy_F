@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Willian Yudy Futema 
+#  Willian Yudy Futema 
 
 **` Student / Bartender `**
 
