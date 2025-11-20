@@ -18,7 +18,7 @@ I’m open to opportunities in Technology, Data Science, Networking, IT Support 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="(https://www.youtube.com/@FielCode)">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -32,7 +32,7 @@ I’m open to opportunities in Technology, Data Science, Networking, IT Support 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://www.youtube.com/@FielCode">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
