@@ -1,14 +1,43 @@
 #  Willian Yudy Futema 
 
-**` Student / Bartender `**
+# Hi, I'm Willian Yudy Futema 👋
 
-My name is Willian Yudy Futema, and I am currently studying a Bachelor of Information Technology in Australia. I’m passionate about technology, data and artificial intelligence, and I’m constantly learning and improving my technical skills.
+🎓 **Bachelor of IT student at AIT (Sydney)** — graduating [mês/ano]
+🌏 Based in Sydney, Australia
+📊 Aspiring **Data Analyst** — building toward a career in Data Science
+💼 Open to **Data Analyst, BI, IT Support and Junior Developer** opportunities
 
-In addition to my studies, I have professional experience as a bartender, which helped me develop strong customer service, communication and teamwork skills — abilities that I also apply in the tech field.
+---
 
-I’m currently studying topics such as data science, data analytics, networking, object-oriented programming and systems analysis, while building practical projects to expand my portfolio.
+### 🛠️ What I'm working on
 
-I’m open to opportunities in Technology, Data Science, Networking, IT Support and Development.
+* 🐍 **Python** — data analysis with pandas, numpy, matplotlib
+* 🗄️ **SQL** — querying, modelling and exploring datasets
+* 📡 **Networking** — Cisco Packet Tracer, VLSM subnetting, OSPF/RIP, DHCP/DNS
+* ☕ **Java & C++** — OOP applications and game projects
+* 🎫 **IT Support** — live event tech support at [nome do estádio], troubleshooting under pressure
+
+### 📌 Featured projects
+
+* 🌐 **[nome-do-projeto-network]** — Enterprise network with VLSM, OSPF/RIP, DHCP, DNS (Cisco Packet Tracer)
+* 🃏 **[seu-projeto-cpp]** — [uma linha sobre o que ele faz]
+* 🔐 **[seu-projeto-java]** — [uma linha sobre o que ele faz]
+* 🎮 **[outro-projeto]** — [uma linha]
+
+### 🌱 Currently learning
+
+* Data analysis with Python (pandas, seaborn)
+* SQL for analytics
+* Power BI / Tableau for data visualisation
+
+### 📫 Get in touch
+
+* 📧 [seu-email]
+* 💼 [LinkedIn](https://linkedin.com/in/willian-yudy-futema)
+
+---
+
+*[uma frase sua, algo que você curte — pode ser em português inclusive, dá personalidade]*
 
 <p align="left">
     <a href="(https://www.youtube.com/@FielCode)">
