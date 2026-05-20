@@ -1,6 +1,5 @@
 #  Willian Yudy Futema 
 
-# Hi, I'm Willian Yudy Futema 👋
 
 🎓 **Bachelor of IT student at AIT (Sydney)** — graduating [mês/ano]
 🌏 Based in Sydney, Australia
