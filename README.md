@@ -1,75 +1,44 @@
-#  Willian Yudy Futema 
+# Hi, I'm Willian Yudy Futema 👋
 
+**Bachelor of IT student at the Academy of Interactive Technology (AIT)** in Sydney — graduating [mês/ano].
 
-🎓 **Bachelor of IT student at AIT (Sydney)** — graduating [mês/ano]
-🌏 Based in Sydney, Australia
-📊 Aspiring **Data Analyst** — building toward a career in Data Science
-💼 Open to **Data Analyst, BI, IT Support and Junior Developer** opportunities
+Currently focused on building hands-on skills in **data analysis, Python and SQL**, alongside networking and full-stack development. I also bring real-world experience from event tech support at large-scale Sydney venues.
 
 ---
 
-### 🛠️ What I'm working on
+## What I'm building
 
-* 🐍 **Python** — data analysis with pandas, numpy, matplotlib
-* 🗄️ **SQL** — querying, modelling and exploring datasets
-* 📡 **Networking** — Cisco Packet Tracer, VLSM subnetting, OSPF/RIP, DHCP/DNS
-* ☕ **Java & C++** — OOP applications and game projects
-* 🎫 **IT Support** — live event tech support at [nome do estádio], troubleshooting under pressure
+- **Data Analytics** — Python projects exploring real-world datasets (sports performance, hospitality operations)
+- **Networking** — Cisco Packet Tracer with VLSM, RIP/OSPF, DHCP and DNS
+- **Web Development** — Full-stack PHP/MySQL applications
+- **Java & C++** — OOP applications and small projects
 
-### 📌 Featured projects
+## Featured projects
 
-* 🌐 **[nome-do-projeto-network]** — Enterprise network with VLSM, OSPF/RIP, DHCP, DNS (Cisco Packet Tracer)
-* 🃏 **[seu-projeto-cpp]** — [uma linha sobre o que ele faz]
-* 🔐 **[seu-projeto-java]** — [uma linha sobre o que ele faz]
-* 🎮 **[outro-projeto]** — [uma linha]
+- 📊 **[corinthians-performance-analytics](https://github.com/Willian-Yudy-F/corinthians-performance-analytics)** — Data analysis of Corinthians 2024–2026: from relegation candidate to national champion
+- 🍸 **[smart-bar-centennial](https://github.com/Willian-Yudy-F/smart-bar-centennial)** — [uma linha do que faz]
+- 🌐 **[Enterprise-network-cisco-packet-tracer](https://github.com/Willian-Yudy-F/Enterprise-network-cisco-packet-tracer)** — 5-router enterprise network with VLSM, dynamic routing and core network services
+- 🍷 **[Wine-House](https://github.com/Willian-Yudy-F/Wine-House)** — [uma linha do que faz]
+- 📚 **[bookstore](https://github.com/Willian-Yudy-F/bookstore)** — Full-stack book browsing and review web app (PHP/MySQL)
 
-### 🌱 Currently learning
+## Currently learning
 
-* Data analysis with Python (pandas, seaborn)
-* SQL for analytics
-* Power BI / Tableau for data visualisation
+- Data analysis with pandas, numpy and matplotlib
+- SQL for analytics
+- Power BI for data visualisation
 
-### 📫 Get in touch
+## Open to
 
-* 📧 [seu-email]
-* 💼 [LinkedIn](https://linkedin.com/in/willian-yudy-futema)
+Junior **Data Analyst, BI, IT Support and Developer** roles in Sydney.
 
----
+## Get in touch
 
-*[uma frase sua, algo que você curte — pode ser em português inclusive, dá personalidade]*
-
-<p align="left">
-    <a href="(https://www.youtube.com/@FielCode)">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="(https://www.youtube.com/@FielCode)">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.youtube.com/@FielCode">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+- 📧 [seu-email]
+- 💼 [LinkedIn](https://www.linkedin.com/in/willian-yudy-futema/)
 
 ---
+
+*"Data tells the story — my job is to listen."*
 
 ### 🤖 Linguagens e Tecnologias
 
