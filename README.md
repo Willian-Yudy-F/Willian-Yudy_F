@@ -1,6 +1,6 @@
 # Hi, I'm Willian Yudy Futema 👋
 
-**Bachelor of IT student at the Academy of Interactive Technology (AIT)** in Sydney — graduating [mês/ano].
+**Bachelor of IT student at the Academy of Interactive Technology (AIT)** in Sydney — graduating [05/2027].
 
 Currently focused on building hands-on skills in **data analysis, Python and SQL**, alongside networking and full-stack development. I also bring real-world experience from event tech support at large-scale Sydney venues.
 
@@ -16,7 +16,7 @@ Currently focused on building hands-on skills in **data analysis, Python and SQL
 ## Featured projects
 
 - 📊 **[corinthians-performance-analytics](https://github.com/Willian-Yudy-F/corinthians-performance-analytics)** — Data analysis of Corinthians 2024–2026: from relegation candidate to national champion
-- 🍸 **[smart-bar-centennial](https://github.com/Willian-Yudy-F/smart-bar-centennial)** — [uma linha do que faz]
+- 🍸 **[smart-bar-centennial](https://github.com/Willian-Yudy-F/smart-bar-centennial)** — [show a map about all the spirit origens]
 - 🌐 **[Enterprise-network-cisco-packet-tracer](https://github.com/Willian-Yudy-F/Enterprise-network-cisco-packet-tracer)** — 5-router enterprise network with VLSM, dynamic routing and core network services
 - 🍷 **[Wine-House](https://github.com/Willian-Yudy-F/Wine-House)** — [uma linha do que faz]
 - 📚 **[bookstore](https://github.com/Willian-Yudy-F/bookstore)** — Full-stack book browsing and review web app (PHP/MySQL)
