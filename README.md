@@ -33,7 +33,6 @@ Junior **Data Analyst, BI, IT Support and Developer** roles in Sydney.
 
 ## Get in touch
 
-- 📧 [seu-email]
 - 💼 [LinkedIn](https://www.linkedin.com/in/willian-yudy-futema/)
 
 ---
